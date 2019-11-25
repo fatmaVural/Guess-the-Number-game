@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\fatma\desktop\udemycdersleri\guessthenumbergame\guessthenumbergame\source.c(7): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\fatma\desktop\udemycdersleri\guessthenumbergame\guessthenumbergame\source.c(35): warning C4013: 'system' undefined; assuming extern returning int
+  guessTheNumberGame.vcxproj -> C:\Users\fatma\Desktop\udemycDersleri\guessTheNumberGame\Debug\guessTheNumberGame.exe
